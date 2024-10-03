@@ -2,7 +2,7 @@ package basicsPackage;
 
 public class Updating_GlobalVariable_Value 
 {
-	int age=10;
+	int age=20;
 	static String name="JAYSHREE";
 	
 	public static void main(String[] args) 
